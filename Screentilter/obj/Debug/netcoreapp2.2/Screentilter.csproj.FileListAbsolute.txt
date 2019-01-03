@@ -1,4 +1,0 @@
-C:\Users\carls\Desktop\Koodiopettelu\Screentilter\Screentilter\obj\Debug\netcoreapp2.2\Screentilter.csprojAssemblyReference.cache
-C:\Users\carls\Desktop\Koodiopettelu\Screentilter\Screentilter\obj\Debug\netcoreapp2.2\Screentilter.csproj.CoreCompileInputs.cache
-C:\Users\carls\Desktop\Koodiopettelu\Screentilter\Screentilter\obj\Debug\netcoreapp2.2\Screentilter.AssemblyInfoInputs.cache
-C:\Users\carls\Desktop\Koodiopettelu\Screentilter\Screentilter\obj\Debug\netcoreapp2.2\Screentilter.AssemblyInfo.cs
